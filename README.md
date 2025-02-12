@@ -23,7 +23,7 @@ Specifically, PointStack outperforms various existing feature learning networks 
 
 ## Modifications
 The main modifications are adding in a predict.py script that means that any trained model can be used to predict unlabeled point clouds. This repository is meant to be used in conjuction with the following repository used to prepare the data:
-https://github.com/tedtheturtlenz/PointCloud_Prep
+https://github.com/tedtheturtlenz/PointCloud_Prep and https://github.com/tedtheturtlenz/Scanning to capture the data (optional).
 
 
 ## Preparations
