@@ -22,7 +22,7 @@ In addition, both the global structure and the local shape details of a point cl
 Specifically, PointStack outperforms various existing feature learning networks for shape classification and part segmentation on the ScanObjectNN and ShapeNetPart datasets.*
 
 ## Modifications
-The main modifications are adding in a predict.py script that means that any trained bonsai model can be used to predict unlabeled point clouds of bonsai trees. This repository is meant to be use in conjuction with the following repository used to prepare the data:
+The main modifications are adding in a predict.py script that means that any trained model can be used to predict unlabeled point clouds. This repository is meant to be used in conjuction with the following repository used to prepare the data:
 https://github.com/tedtheturtlenz/PointCloud_Prep
 
 
